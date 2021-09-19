@@ -1,0 +1,4 @@
+?ExampleWindowWithText
+|say{Rendering window with text..}
+|@win[Hello World-400-200-text:Hello, world!_colour:eb4034]
+|@end
