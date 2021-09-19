@@ -1,0 +1,6 @@
+?BasicStaticFileServer
+|say{Renget Static File Server}
+|say{IP: [IP]}
+|say{}
+|@input[c-int-Please enter a port to host on]
+|@host[static-INPUT]
