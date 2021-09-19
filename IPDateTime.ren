@@ -1,0 +1,3 @@
+?IPDateTime Example RenGet
+|say{Hi [FIRST_NAME]! Your IP address is [IP]. The system date is [DATE] and the time is [TIME]}
+|@loop
