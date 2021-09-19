@@ -1,0 +1,4 @@
+?RandomNumberGenerator
+|say{Your number is [INT_RND_1-100]}
+|@wait[5]
+|@loop
