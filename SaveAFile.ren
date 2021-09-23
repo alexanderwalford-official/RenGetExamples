@@ -1,0 +1,7 @@
+?SaveAFile
+|say{=> File Saving Wizard <=}
+|say{========================}
+|@input[c-str-Please enter a file name]
+|@mkfile[[INPUT]_This text will be saved into the file]
+|say{File saved: [INPUT]}
+|@end
