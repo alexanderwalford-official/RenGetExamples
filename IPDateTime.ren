@@ -1,3 +1,4 @@
 ?IPDateTime Example RenGet
+|@@CLI
 |say{Hi [FIRST_NAME]! Your IP address is [IP]. The system date is [DATE] and the time is [TIME]}
 |@end
