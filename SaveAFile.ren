@@ -1,4 +1,5 @@
 ?SaveAFile
+|@@CLI
 |say{=> File Saving Wizard <=}
 |say{========================}
 |@input[c-str-Please enter a file name]
