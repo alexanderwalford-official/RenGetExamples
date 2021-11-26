@@ -1,0 +1,5 @@
+?Enter your code here.
+|@@GUI
+|@input[g-str-Please enter your age]
+|say{[FIRST_NAME] [LAST_NAME] is [INPUT]}
+|@end
