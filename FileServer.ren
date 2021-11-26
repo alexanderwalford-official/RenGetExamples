@@ -1,4 +1,5 @@
 ?BasicStaticFileServer
+|@@CLI
 |say{Renget Static File Server}
 |say{IP: [IP]}
 |say{}
