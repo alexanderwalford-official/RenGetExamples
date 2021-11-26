@@ -1,4 +1,4 @@
-?Enter your code here.
+?AskAge - Asks the user for their age and puts it next to their name.
 |@@GUI
 |@input[g-str-Please enter your age]
 |say{[FIRST_NAME] [LAST_NAME] is [INPUT]}
