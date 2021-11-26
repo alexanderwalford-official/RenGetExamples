@@ -2,9 +2,9 @@
 |@@GUI
 |say{Welcome to the AskAge RenGet app! Please enter your age into the box..}
 |@input[g-str-Please enter your age into the box below:]
-|say{___ YOUR DETAILS ___}
-|say{Full Name: [FIRST_NAME] [LAST_NAME]
+|say{___ YOUR DETAILS ___
+Full Name: [FIRST_NAME] [LAST_NAME]
 Username: [USERNAME]
-Age: [INPUT]}
-|say{_______________}
+Age: [INPUT]
+_______________}
 |@end
