@@ -5,6 +5,7 @@
 |say{___ YOUR DETAILS ___
 Full Name: [FIRST_NAME] [LAST_NAME]
 Username: [USERNAME]
+Email Address: [EMAIL]
 Age: [INPUT]
 _______________}
 |@end
