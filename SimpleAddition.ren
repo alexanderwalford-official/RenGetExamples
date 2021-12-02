@@ -1,0 +1,4 @@
+?SimpleAddition
+|maths{5+4+6+2}= ?(saves the sum as variable named "[SUM]")
+|say{5 + 4 + 6 + 2 = [SUM]} ? here we're printing the sum and the answer
+|@end
