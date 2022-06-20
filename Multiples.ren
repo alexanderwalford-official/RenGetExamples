@@ -1,0 +1,14 @@
+?Muliple objects and threads
+|@@GUI
+|@3d[cube|0,0,0|1,1,1]
+|@thread
+|@win[Multiple Windows-400-200-text:You can also render multiple windows too!
+When the user closes one, the other will be behind or in front of it
+depending on the exectuion time.]
+|@thread
+|@win[My 3D Render-400-200-text:You can render multiple objects at once!
+Isn't that at least kind of cool?
+Please, love me =(]
+|@thread
+|say{Looks like my job here is done..}
+|@end
